@@ -1,3 +1,3 @@
 **#A3 - Ingles Instrumental**
 
-<h1>Este repositório é dedicado a um projeto universitário feito em grupo</h1>
+<h3>Este repositório é dedicado a um projeto universitário feito em grupo</h3>
